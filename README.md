@@ -7,7 +7,7 @@
 具体使用方法请参考 使用说明.txt  
 
 附上开发过程中的一张bug图^-^：  
-![这里写图片描述](https://github.com/LLMIKU/2017.-CAD-/blob/master/Bug_Image/2017-10-24.png)
+![Bug_Image](https://github.com/LLMIKU/2017.-CAD-/blob/master/Bug_Image/2017-10-24%20(3).png)
 
 
 
